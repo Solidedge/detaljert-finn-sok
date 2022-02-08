@@ -1,0 +1,5 @@
+Elektronikk NOT Elkjøp
+Musikk NOT Platekompaniet
+Elektronikk AND Kretsdesign
+#
+Everything below the "#" will be ignored...
