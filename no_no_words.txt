@@ -1,0 +1,4 @@
+Elkjøp
+#
+Everything below the "#" will be ignored...
+The file is completely ignored if first line is empty
